@@ -1,0 +1,3 @@
+# LCEDA_gen_pcb_ant
+
+在立创EDA上调用API绘制PCB线圈天线的脚本
